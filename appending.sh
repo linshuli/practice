@@ -1,5 +1,5 @@
 touch data2.txt
-
+#hahaha
 for i in {1..10};
 do
     let j=i+1
