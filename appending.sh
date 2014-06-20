@@ -1,7 +1,7 @@
 touch data2.txt
-
+# haha
 for i in {1..10};
 do
     let j=i+1
-    echo  $i $j >> data1.txt
+    echo  $i $j $i>> data1.txt
 done
