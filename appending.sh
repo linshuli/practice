@@ -1,4 +1,6 @@
 touch data1.txt
+#hamaomao
+
 # hahahaha
 #new
 #lost
