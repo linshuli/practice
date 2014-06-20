@@ -1,4 +1,4 @@
-touch data1.txt
+touch data2.txt
 
 for i in {1..10};
 do
